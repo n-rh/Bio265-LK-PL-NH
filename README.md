@@ -7,5 +7,8 @@ The metadata is available on Dryad as: “Clinical_rnaseq.csv”.
 These files are also added to the github for convenience.
 
 CODE FILES:
+For differential gene expression: "DGE Code - BIO-265-FinalProject Draft LK 031825"
+For PCA: "PCA Code - BIO-265-FinalProject Draft 031925"
+
 
 
